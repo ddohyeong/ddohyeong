@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<h4>✏️ STUDY LOG </h4>
+<h3>✏️ STUDY LOG </h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
 
