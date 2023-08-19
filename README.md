@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 <div class="mainWrapper" align="center">
   
-### 🛠️TECK STACK🛠️
-
-#### Language
-
+### <span style="color:green">🛠️TECK STACK🛠️</span>
 <div>
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
   <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -32,6 +29,11 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazonAws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  
-  
 </div>
+<br>
+<br>
+<h4>✏️ Study log</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddohyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
