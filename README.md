@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div class="mainWrapper" align="center">
   
-### <span style="color:green">🛠️TECK STACK🛠️</span>
+### 🛠️TECK STACK🛠️
 <div>
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
   <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -31,7 +31,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 <br>
+
+### 📎TOOLS📎
+
+<div>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
+</div>
+
+
+
 <br>
+
 <h3>✏️ STUDY LOG </h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
