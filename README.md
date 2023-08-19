@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddohyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ddohyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddohyeong&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddohyeong&layout=compact)](https://github.com/ddohyeong/github-readme-stats)
+
+</div>
+</div>
+
+
+
 
 
