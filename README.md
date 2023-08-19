@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 <div>
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
   <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=Mariadb&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=Mariadb&logoColor=white"/>
 
+  <br>
   <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazonAws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   
