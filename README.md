@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<h4>✏️ Study log</h4>
+<h4>✏️ STUDY LOG </h4>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddohyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
+
