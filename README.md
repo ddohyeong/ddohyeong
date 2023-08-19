@@ -40,6 +40,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
 </div>
 
+### 📪ABOUT ME📪
+<div>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  <a href="https://inblog.ai/dohyeong">
+    <img src="https://img.shields.io/badge/Inblog-gray?style=flat-square&logo=Inblog&logoColor=white" />
+  </a>
+</div>
 
 
 <br>
