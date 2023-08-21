@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
 
-![ddohyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddohyeong&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddohyeong)
 
 </div>
 </div>
