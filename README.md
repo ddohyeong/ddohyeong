@@ -52,12 +52,10 @@ Here are some ideas to get you started:
 <br>
 
 <h3>✏️ STUDY LOG </h3>
+<a href = "https://ddohyeong.github.io">
+  <img src="https://img.shields.io/badge/GitHubBlog-blue?style=flat-square&logo=GitHub&logoColor=white"/>
+</a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dohyeong&color=dark)](https://velog.io/@dohyeong)
-
-
-</div>
-</div>
 
 
 
