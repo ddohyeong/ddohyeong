@@ -47,17 +47,14 @@ Here are some ideas to get you started:
 ### 📪ABOUT ME📪
 <div>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-  <a href="https://inblog.ai/dohyeong">
-    <img src="https://img.shields.io/badge/Inblog-gray?style=flat-square&logo=Inblog&logoColor=white" />
-  </a>
 </div>
 
 
 <br>
 
 <h3>✏️ STUDY LOG </h3>
-<a href = "https://ddohyeong.github.io">
-  <img src="https://img.shields.io/badge/GitHubBlog-blue?style=flat-square&logo=GitHub&logoColor=white"/>
+<a href = "https://ddohyeong.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-blue?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
 
